@@ -50,5 +50,6 @@ Git/Jenkins/Gradle/Maven/JUnit
 ###### 心情不好吗？  
   
 如果你心情不好，也可以来找找聊聊，我很会心理开导喔。  
-![233](https://inews.gtimg.com/newsapp_bt/0/12233699622/641)  
+
+ <img src="https://inews.gtimg.com/newsapp_bt/0/12233699622/641" width = "270" height = "270" alt="加油"/>
   

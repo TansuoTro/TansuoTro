@@ -5,4 +5,4 @@
 偶尔喜欢写一些代码，熟悉大部分主流编程语言
 
 想了解我吗？
-[详细资料](https://github.com/TansuoTro/TansuoTro/README-zh.md)
+[详细资料](https://github.com/TansuoTro/TansuoTro/blob/master/README-zh.md)

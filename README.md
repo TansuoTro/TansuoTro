@@ -4,7 +4,7 @@ description: 这个页面是做什么的呢？
 
 # 这是什么
 
-本向导是我的领域联合群组\(以下简称本群组\)的入服基本操作向导，主要用于帮助玩家快速上手该群组及相关整合包和附带内容。
+test
 
-本向导只适用于本群组旗下的内容，参考范围仅在本群组之内。
-
+<img align="left" alt="Tansuo Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tansuo&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="Tansuo Github Stats" src="https://github-readme-stats.vercel.app/api?username=tansuo&show_icons=true&hide_border=true&theme=radical" />
